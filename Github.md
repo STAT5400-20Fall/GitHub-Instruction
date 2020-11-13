@@ -48,7 +48,8 @@ Downloading and editing homework from GitHub
 3.  Enter the homework repository on GitHub and clich “Clone or
     Download”. You have copied
     <a href="https://github.com/STAT5400-20Fall/GitHub-Instruction.git" class="uri">https://github.com/STAT5400-20Fall/GitHub-Instruction.git</a>
-    in your clipboard.
+    in your clipboard. You will see the present document and you will be
+    given a link to the real homework later.
 4.  In Rstudio, go to File -&gt; New Project, and then click Version
     Control, and then Git. Paste the link you just copied, and create
     this as a subdirectory of the folder HW. Now you should see a list
