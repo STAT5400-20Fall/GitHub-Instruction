@@ -44,7 +44,7 @@ This document is a simplified version of <https://github.com/jfiksel/github-clas
 ## Downloading and editing homework from GitHub
 1. In your computer, make a directory like STAT5400 and make a subdirectory called HW.
 2. Accept your assignment. Try the test link: <https://classroom.github.com/a/P0agrYYx>.
-3. Enter the homework repository on GitHub and clich "Clone or Download". You have copied <https://github.com/STAT5400-20Fall/GitHub-Instruction.git> in your clipboard. You will see the present document and you will be given a link to the real homework later. 
+3. Enter the homework repository on GitHub and click "Clone or Download". You have copied <https://github.com/STAT5400-20Fall/GitHub-Instruction.git> in your clipboard. You will see the present document and you will be given a link to the real homework later. 
 4. In Rstudio, go to File -> New Project, and then click Version Control, and then Git. Paste the link you just copied, and create this as a subdirectory of the folder HW. Now you should see a list of the files in Rstudio. You can click on the file you want to edit and make changes. Click the .Rproj file if you leave and go back to continue your project. 
 5. Commit these changes to your local repository. CLick the Git tab and check the file you want to commit. Click commit and type a message in "Commit message" such as "Added a comment line". Click "Commit".
 6. Click the green "Push" botton to send your local changes to GitHub.
