@@ -3,11 +3,11 @@ title: 'Tech Guide: GitHub'
 author: "STAT 5400"
 date: "Nov 13, 2020."
 output:
+  md_document:
+    df_print: paged
   html_document:
     df_print: paged
   pdf_document: default
-  md_document:
-    df_print: paged
 ---
 
 This document is a simplified version of <https://github.com/jfiksel/github-classroom-for-students>, written by Jacob Fiksel. This document is also adapted from <https://happygitwithr.com>. This video is helpful: <https://www.youtube.com/watch?v=pAcMgGbCtQw&feature=youtu.be>.

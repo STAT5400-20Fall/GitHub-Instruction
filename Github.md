@@ -44,10 +44,10 @@ Downloading and editing homework from GitHub
 1.  In your computer, make a directory like STAT5400 and make a
     subdirectory called HW.
 2.  Accept your assignment. Try the test link:
-    <a href="https://classroom.github.com/a/rfCWPoDp" class="uri">https://classroom.github.com/a/rfCWPoDp</a>.
+    <a href="https://classroom.github.com/a/P0agrYYx" class="uri">https://classroom.github.com/a/P0agrYYx</a>.
 3.  Enter the homework repository on GitHub and clich “Clone or
     Download”. You have copied
-    <a href="https://github.com/STAT5400-Fall2019/HW-8.git" class="uri">https://github.com/STAT5400-Fall2019/HW-8.git</a>
+    <a href="https://github.com/STAT5400-20Fall/GitHub-Instruction.git" class="uri">https://github.com/STAT5400-20Fall/GitHub-Instruction.git</a>
     in your clipboard.
 4.  In Rstudio, go to File -&gt; New Project, and then click Version
     Control, and then Git. Paste the link you just copied, and create
